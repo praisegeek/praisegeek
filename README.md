@@ -5,7 +5,7 @@
 
 Building market-fit tech products at the intersection of Blockchain, AI, and High-Performance Systems at [Stacklify](https://stacklify.com).
 
-[Case Studies / Website](https://praisenini.com) · [Wellfound](https://wellfound.com/praisegeek) · [Twitter / X](https://x.com/praisegeek)
+[Case Studies / Website](https://praisenini.com) · [Wellfound](https://wellfound.com/u/praisenini) · [Twitter / X](https://x.com/praisegeek)
 
 </div>
 
