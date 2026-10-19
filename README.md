@@ -1,16 +1,31 @@
-## Hi there 👋
+# Praise-God Emerenini
 
-<!--
-**praisegeek/praisegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creator of [Superno](https://superno.xyz) Cloud Hosting Platform**
 
-Here are some ideas to get you started:
+Building market-fit tech products at the intersection of Blockchain, AI, and High-Performance Systems at [Stacklify](https://stacklify.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Case Studies / Website](https://praisenini.com) · [Wellfound](https://wellfound.com/praisenini) · [Twitter / X](https://x.com/praisegeek)
+
+---
+
+I am a software engineer focused on hyper-scalable systems, hybrid cloud infrastructure automation, and decentralized applications. I design high-performance architectures that eliminate resource overhead, automate complex deployment streams, and scale web stacks globally.
+
+Core runtime environments: **DevOps / Cloud Architecture**, **Web3 Protocols**, and **Fullstack Systems**.
+
+### 🚀 Active Ventures & Platforms
+
+- **[Superno](https://superno.xyz)** — Next-gen cloud hosting platform built for seamless scale across serverless, edge compute, and isolated microVM container pods with zero egress tax.
+- **[Sonaonchain](https://sonaonchain.vercel.app)** — Decentralized media and blockchain infrastructure orchestrating peer-to-peer audio streaming protocols, S3-compatible node storage networks, and serverless edge hosting.
+- **Payflare** — Fintech infrastructure delivering high-velocity payment rails, processing hooks, and transaction settlement frameworks.
+
+### 🛠️ Core Projects
+
+| Project | Ecosystem / Stack | Description |
+| :--- | :--- | :--- |
+| **[sona](https://github.com/praisegeek/sona)** | `P2P / Decentralized` | An open-source, ad-free music protocol replacing heavy centralized servers with peer-to-peer caching, decentralized storage, and direct-to-artist tipping. |
+| **[gatsby-plugin-appsync](https://github.com/praisegeek/gatsby-plugin-appsync)** | `AWS AppSync / GraphQL` | An optimized integration plugin enabling drop-in configuration, offline support, and SSR states with AWS AppSync using Apollo Client workflows. |
+
+### 🌍 Open Source Ecosystem Contributions
+
+- **[little-bear-labs / aws-utils](https://github.com/little-bear-labs/aws-utils)** — Contributed runtime validation fixes to the open-source AWS serverless testing and emulator toolchains.
+  - [*Fixed internal debug block:*](https://github.com/little-bear-labs/aws-utils/commits?author=praisegeek) Patched terminal instrumentation bugs to prevent active `SLS_DEBUG` log streams from breaking execution hooks during local Lambda Invokes.
